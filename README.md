@@ -26,7 +26,7 @@ This application is a fully functional messenger application similar to Slack or
 1. Clone the application,
 
 ```bash
-git@github.com:RahulNagaraj/advanced-redux.git
+git clone git@github.com:danielstern/advanced-redux.git
 ```
 
 2. Install dependencies
@@ -34,7 +34,6 @@ git@github.com:RahulNagaraj/advanced-redux.git
 ```bash
 cd advanced-redux
 npm install
-npm install -g babel-cli
 ```
 
 3. Start the application
